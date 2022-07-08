@@ -27,6 +27,8 @@ a {
 
 .bgtheme {
     text-align: start;
+    top: 0;
+    left: 0;
     margin: 10px 10px;
     font-size: 18px;
     position: absolute;
@@ -68,7 +70,7 @@ body.darkpink {
     width: 300px;
     height: 515px;
     margin: 0 auto;
-    margin-top: 10px;
+    margin-top: 50px;
     text-align: center;
     display: flex;
     justify-content: center;
