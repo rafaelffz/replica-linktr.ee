@@ -124,7 +124,7 @@ a {
         display: block;
         position: absolute;
         width: 100%;
-        top: 40px;
+        top: 45px;
         right: 0px;
         background: #e1e6f0;
         z-index: 1000;
@@ -136,12 +136,12 @@ a {
     }
     .bgtheme.active {
         display: block;
-        height: calc(100vh - 7vh);
+        height: 100%;
         visibility: visible;
     }
     .naoSelecionavel {
         border-bottom: 2px solid rgba(0, 0, 0, .10);
-        width: 25em;
+        width: calc(100vw - 10vw);
         padding: 1rem 0;
     }
     .titulo-bg {
