@@ -28,6 +28,7 @@ a {
     margin: 5px 1rem;
     border-bottom: 2px solid rgba(0, 0, 0, .10);
     width: 100px;
+    cursor: pointer;
 
 }
 .titulo-bg {
